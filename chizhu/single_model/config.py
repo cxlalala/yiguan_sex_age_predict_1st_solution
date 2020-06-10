@@ -1,1 +1,1 @@
-path = "/Users/chizhu/data/competition_data/易观/"
+path = "/media/cx/My Passport/Demo"
